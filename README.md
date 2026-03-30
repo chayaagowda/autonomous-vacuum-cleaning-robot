@@ -1,4 +1,4 @@
-# autonomous-vacuum-cleaning-robot
+
 
 # Autonomous Vacuum Cleaning Robot (Vision-Based Dirt Detection)
 
